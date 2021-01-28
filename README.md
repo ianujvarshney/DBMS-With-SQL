@@ -101,5 +101,11 @@ _______________________________
 _______________________________
 
 
+<br/>
+<p align="center">
+<img src="https://badges.pufler.dev/visits/ianujvarshney/DBMS-With-SQL?style=for-the-badge&logo=github&logoColor=yellow" alt=ianujvarshney />
+<img src="https://badges.pufler.dev/updated/ianujvarshney/DBMS-With-SQL?style=for-the-badge&logo=github&logoColor=yellow" alt=ianujvarshney />
+<img src="https://img.shields.io/github/last-commit/ianujvarshney/DBMS-With-SQL?logo=github&logoColor=yellow&style=for-the-badge" alt=ianujvarshney />
+</p>
 
 
